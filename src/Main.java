@@ -1,7 +1,7 @@
 //TODO: musimy dodać brakujące klasy
 
 
-//Ok, dodam 'Adder', ktoś inny doda 'Substractor'
+//Ok, dodam 'Adder', a s35226 'Substractor'
 
 public class Main {
     static void main() {
