@@ -1,3 +1,5 @@
+//TODO: musimy dodać brakujące klasy
+
 public class Main {
     static void main() {
         Adder adder = new Adder();
