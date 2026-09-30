@@ -1,5 +1,8 @@
 //TODO: musimy dodać brakujące klasy
 
+
+//Ok, dodam 'Adder', ktoś inny doda 'Substractor'
+
 public class Main {
     static void main() {
         Adder adder = new Adder();
